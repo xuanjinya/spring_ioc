@@ -6,6 +6,7 @@
     <bean id="userService" class="cn.huang.ioc.demo1.UserServiceImpl">
         <!--设置属性 -->
         <property name="name" value="李四"></property>
+        
     </bean>
 
 </beans>

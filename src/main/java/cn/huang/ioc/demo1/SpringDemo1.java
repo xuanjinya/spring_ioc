@@ -29,4 +29,6 @@ public class SpringDemo1 {
         UserService userService = (UserService) applicationContext.getBean("userService");
         userService.sayHello();
     }
+
+    
 }
